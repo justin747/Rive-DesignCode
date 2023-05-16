@@ -12,7 +12,7 @@ struct ContentView: View {
         Text("Test")
             .bold()
             .fontWeight(.medium)
-            .foregroundColor(.pink)
+            .foregroundColor(.teal)
     }
 }
 
